@@ -5,8 +5,19 @@
 ---
 
 * ## Overview:
-```
-Developing a Remote Access Trojan [RAT]. Used to command and control [C2] target computers.
+``` 
+                                  j.                                
+            ..       :            EW,                   .. GEEEEEEEL
+           ,W,     .Et :KW,      LE##j                 ;W, ,;;L#K;;.
+          t##,    ,W#t  ,#W:   ,KGE###D.              j##,    t#E   
+         L###,   j###t   ;#W. jWi E#jG#W;            G###,    t#E   
+       .E#j##,  G#fE#t    i#KED.  E#t t##f         :E####,    t#E   
+      ;WW; ##,:K#i E#t     L#W.   E#t  :K#E:      ;W#DG##,    t#E   
+     j#E.  ##f#W,  E#t   .GKj#K.  E#KDDDD###i    j###DW##,    t#E   
+   .D#L    ###K:   E#t  iWf  i#K. E#f,t#Wi,,,   G##i,,G##,    t#E   
+  :K#t     ##D.    E#t LK:    t#E E#t  ;#W:   :K#K:   L##,    t#E   
+  ...      #G      ..  i       tDjDWi   ,KK: ;##D.    L##,     fE   
+           j                                 ,,,      .,,       :
 ```
 
 
